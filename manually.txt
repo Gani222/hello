@@ -1,0 +1,4 @@
+hi
+ganesh
+now i am createing file in git hub to do some modification 
+for checking purpose
